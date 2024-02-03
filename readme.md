@@ -21,6 +21,7 @@ pip freeze > requirements.txt
 ブレークポイントを打ち、F5を押すことによりin.txtの内容が入力されます。ただし、本番環境における入力の受け取り方とは異なる場合があるので、その部分は適宜修正してください。
 
 ## Test
+[参考](https://zenn.dev/tkr923/articles/186abf09c07e79)
 
 ```:bash
 sh run.sh
